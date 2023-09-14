@@ -8,13 +8,11 @@
 
 **Welcome to my Github page!**    
 
-I am Melmaphother and I am currently finishing my grade at University of Science and Technology of China(USTC).
-
 #### 🌱 Things I am currently working on: 
-- Finishing my courses
-- Taking online courses about Data Science and Machine Learning 
-- Laborotary practices on [this lab](https://bigdata.ustc.edu.cn/) 🚀 *coming soon*
-- My teacher are the professor [Liu](http://staff.ustc.edu.cn/~qiliuql/) and the researcher [cheng](https://mingyue-cheng.github.io/)
+- Finishing my courses at **University of Science and Technology of China(`USTC`)**.
+- Taking online courses about **Data Science and Machine Learning**
+- Laborotary practices on [this lab](https://bigdata.ustc.edu.cn/) 🚀 *`BDAA` ( Big Data Analysis and Application )*
+- My teacher are the professor [Liu](http://staff.ustc.edu.cn/~qiliuql/) and the researcher [Cheng](https://mingyue-cheng.github.io/)
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
