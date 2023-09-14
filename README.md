@@ -17,15 +17,12 @@ I am Melmaphother and I am currently finishing my grade at University of Science
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Exercising 5 days a week
-- Improving my CV with some education apart from university
+- Improving my ability of programming with some education apart from university
+- learning more programming language
 
 #### :computer: Programming languages and tools: 
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Melmaphother&show_icons=true&hide_border=true" />
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</p>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Melmaphother&show_icons=true&hide_border=true" />
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Melmaphother&theme=dark&layout=compact)
