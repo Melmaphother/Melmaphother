@@ -32,4 +32,4 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Melmaphother&theme=dark&layout=compact&count_private=true)
 
-![melmaphother commit message](https://github.com/Melmaphother/Melmaphother/blob/output/github-contribution-grid-snake.svg）
+![melmaphother commit message](https://github.com/Melmaphother/Melmaphother/blob/output/github-contribution-grid-snake.svg)
