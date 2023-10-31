@@ -30,4 +30,4 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Melmaphother&show_icons=true&hide_border=true&theme=radical" />
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Melmaphother&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Melmaphother&theme=dark&layout=compact&count_private=true)
