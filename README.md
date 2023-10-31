@@ -1,5 +1,5 @@
-### Hi there 👋 
-### This is Melmaphother!
+<h1 align="center">Hi there 👋, This is Melmaphother!</h1>
+<h3 align="center">A student majoring in CS from USTC</h3>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Melmaphother)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:melmaphother@gmail.com)
