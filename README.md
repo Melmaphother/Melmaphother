@@ -10,14 +10,14 @@
 
 #### 🌱 Things I am currently working on: 
 - Finishing my courses at **University of Science and Technology of China(`USTC`)**.
-- Taking online courses about **Data Science and Machine Learning**
-- Laborotary practices on [this lab](https://bigdata.ustc.edu.cn/) 🚀 *`BDAA` ( Big Data Analysis and Application )*
+- Intern at [Meituan](https://www.meituan.com/) in Beijing.
+- Laborotary practices on [bdaa](https://bigdata.ustc.edu.cn/) 🚀 *`BDAA` ( Big Data Analysis and Application )*
 - My teacher are the professor [Liu](http://staff.ustc.edu.cn/~qiliuql/) and the researcher [Cheng](https://mingyue-cheng.github.io/)
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Coding at least 3 hours a day
-- Exercising 5 days a week
+- Exercising 3 days a week
 - Improving my ability of programming with some education apart from university
 - learning more programming language, and I am devoting to python now
 
