@@ -9,17 +9,15 @@
 **Welcome to my Github page!**    
 
 #### 🌱 Things I am currently working on: 
-- Finishing my courses at **University of Science and Technology of China(`USTC`)**.
-- Intern at [Meituan](https://www.meituan.com/) in Beijing.
-- Laborotary practices on [bdaa](https://bigdata.ustc.edu.cn/) 🚀 *`BDAA` ( Big Data Analysis and Application )*
-- My teacher are the professor [Liu](http://staff.ustc.edu.cn/~qiliuql/) and the researcher [Cheng](https://mingyue-cheng.github.io/)
+- Pursuing the master's degree at **University of Science and Technology of China**, [USTC](https://www.ustc.edu.cn/).
+- Laborotary practices on [State Key Laboratory of Cognitive Intelligence](https://cogskl.iflytek.com/).
+- My teacher are the professor [Liu](http://staff.ustc.edu.cn/~qiliuql/) and the associate researcher [Cheng](https://mingyue-cheng.github.io/).
 
 #### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 3 hours a day
-- Exercising 3 days a week
-- Improving my ability of programming with some education apart from university
-- learning more programming language, and I am devoting to python now
+- Coding at least 3 hours a day.
+- Exercising 3 days a week.
+- Improving my ability of programming with some education apart from university.
+- learning more programming language, and I am devoting to python now.
 
 #### :computer: Programming languages and tools:  
 ![](https://img.shields.io/badge/C++-8A2BE2)
