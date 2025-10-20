@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, This is Daoyu Wang!</h1>
 <h3 align="center">A student majoring in CS from USTC</h3>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Melmaphother)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:melmaphother@gmail.com)
-[![USTCMail](https://img.shields.io/badge/-USTCMail-194EA1?style=flat&logo=maildotcom&logoColor=white)](mailto:daoyu.wang@mail.ustc.edu.cn)
-[![HomePage](https://img.shields.io/badge/-HomePage-FBD21E?style=flat&logo=bookmyshow&logoColor=white)](https://melmaphother.github.io/)
+[![Github](https://img.shields.io/badge/-Github-6D6D6D?style=flat&logo=Github&logoColor=white)](https://github.com/Melmaphother)
+[![Gmail](https://img.shields.io/badge/-Gmail-E68A8A?style=flat&logo=Gmail&logoColor=white)](mailto:melmaphother@gmail.com)
+[![USTCMail](https://img.shields.io/badge/-USTCMail-71B3EA?style=flat&logo=maildotcom&logoColor=white)](mailto:daoyu.wang@mail.ustc.edu.cn)
+[![HomePage](https://img.shields.io/badge/-HomePage-EFBF8D?style=flat&logo=bookmyshow&logoColor=white)](https://melmaphother.github.io/)
 
 **Welcome to my Github page!**    
 
