@@ -1,10 +1,10 @@
-<h1 align="center">Hi there 👋, This is Melmaphother!</h1>
+<h1 align="center">Hi there 👋, This is Daoyu Wang!</h1>
 <h3 align="center">A student majoring in CS from USTC</h3>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Melmaphother)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:melmaphother@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Melmaphother)
-[![Bilibili](https://img.shields.io/badge/-Bilibili-FF69B4?style=flat&logo=Bilibili&logoColor=white)](https://space.bilibili.com/523761666?spm_id_from=333.1007.0.0)
+[![USTCMail](https://img.shields.io/badge/-USTCMail-194EA1?style=flat&logo=maildotcom&logoColor=white)](mailto:daoyu.wang@mail.ustc.edu.cn)
+[![HomePage](https://img.shields.io/badge/-HomePage-FBD21E?style=flat&logo=bookmyshow&logoColor=white)](https://melmaphother.github.io/)
 
 **Welcome to my Github page!**    
 
