@@ -11,7 +11,7 @@
 #### 🌱 Things I am currently working on: 
 - Pursuing the master's degree at **University of Science and Technology of China**, [USTC](https://www.ustc.edu.cn/).
 - Laborotary practices on [State Key Laboratory of Cognitive Intelligence](https://cogskl.iflytek.com/).
-- My teacher are the professor [Liu Qi](http://staff.ustc.edu.cn/~qiliuql/) and the associate researcher [Cheng Mingyue](https://mingyue-cheng.github.io/).
+- My teacher are the professor [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/) and the associate researcher [Mingyue Cheng](https://mingyue-cheng.github.io/).
 
 #### :muscle: Things I am challenging myself with:
 - Coding at least 3 hours a day.
