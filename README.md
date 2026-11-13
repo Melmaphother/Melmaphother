@@ -13,10 +13,12 @@
 - Laborotary practices on [State Key Laboratory of Cognitive Intelligence](https://cogskl.iflytek.com/).
 - My teacher are the professor [Qi Liu](http://staff.ustc.edu.cn/~qiliuql/) and the associate researcher [Mingyue Cheng](https://mingyue-cheng.github.io/).
 
-#### :muscle: Things I am challenging myself with:
-- Coding at least 3 hours a day.
-- Exercising 3 days a week.
-- learning more programming language, and I am devoting to python now.
+#### :muscle: Research Interests
+My research focuses on LLM agents, with broader interests in machine learning, agentic reinforcement learning, multimodal understanding and generation. My recent works explore:
+
+- Agentic reasoning on scientific literature
+- Agentic reinforcement learning with LLMs
+- Retrieval-augmented generation with LLMs
 
 #### :computer: Programming languages and tools:  
 ![](https://img.shields.io/badge/Python-348CE5)
